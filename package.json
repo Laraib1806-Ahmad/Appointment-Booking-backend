@@ -1,6 +1,9 @@
 {
   "name": "nest-api",
   "version": "0.0.1",
+  "engines": {
+    "node": "18.x"
+  },
   "description": "",
   "author": "@mrizwanashiq",
   "private": true,
